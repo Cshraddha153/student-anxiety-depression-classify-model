@@ -1,4 +1,4 @@
-# student-anxiety-depression-classify-model
+# Student Anxiety and Depression Classification Model
 
 This project aims to classify student anxiety and depression based on textual data sourced from social media platforms. 
 The growing concern about mental health among students is a significant issue, and this model seeks to assist in identifying 
