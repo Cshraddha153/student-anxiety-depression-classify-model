@@ -1,6 +1,13 @@
 # student-anxiety-depression-classify-model
-I have made this project using python and applied machine learning algorithms to classify anxiety and depression in students.
-MACHINE LEARNING ALGORITHM USED IN PROJECT:-
+
+This project aims to classify student anxiety and depression based on textual data sourced from social media platforms. 
+The growing concern about mental health among students is a significant issue, and this model seeks to assist in identifying 
+potential anxiety and depression cases by analyzing online text comments and posts. The task involves using machine learning algorithms 
+to automatically classify and predict mental health conditions in students.
+
+
+# MACHINE LEARNING ALGORITHM USED IN PROJECT:-
+
 1. LogisticRegression
 2. SVC
 3. DecisionTreeClassifier
